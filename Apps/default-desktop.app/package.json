@@ -1,0 +1,6 @@
+{
+    "name":"default-desktop",
+    "version":"0.0.1",
+    "type":"app",
+    "main":"index.html"
+}
